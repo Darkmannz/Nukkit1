@@ -18,7 +18,7 @@
     <repositories>
         <repository>
             <id>aikar</id>
-            <url>http://ci.emc.gs/nexus/content/groups/aikar/</url>
+            <url>https://ci.emc.gs/nexus/content/groups/aikar/</url>
         </repository>
     </repositories>
 
